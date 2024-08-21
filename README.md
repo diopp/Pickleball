@@ -14,7 +14,7 @@ This app is designed for me and my friends who play pickleball once in a while. 
 
 ## Wireframes 
 
-![image](https://github.com/user-attachments/assets/477cc0f9-5779-4b1c-acb7-8fccaf2de83a)
+![image](https://github.com/user-attachments/assets/890ef139-fded-4316-8c25-e231f4007c41)
 
 
 ## Getting Started 
